@@ -22,6 +22,6 @@
             int add_val = 0;
             add_val = add(0,0);
             printf("\n\rthe add_val is %d\r\n",add_val);
-			printf("I am Clin.");
+
         }
     
