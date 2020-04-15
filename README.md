@@ -5,6 +5,11 @@
   <img alt="Coverity Scan Build Status"
        src="https://scan.coverity.com/projects/20845/badge.svg"/>
 </a>
+<a href="https://scan.coverity.com/projects/soway-code-direct-sensor">
+  <img alt="Coverity Scan Build Status"
+       src="https://img.shields.io/coverity/scan/20845.svg"/>
+</a>
+
 （上面的build|passing图标说明： 当passing是绿色，证明你代码提交上来是已经通过一系列的自动集成构建测试；当你提交代码之后passing颜色是红色，就是你的代码没有通过审查，你的邮件会收到不通过的原因并指出问题所在的代码行）
 
 ####  增加文档目录(目前正把文档移到 https://github.com/Soway-code/training)
