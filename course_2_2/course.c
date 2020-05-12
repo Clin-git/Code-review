@@ -17,6 +17,7 @@
         }
     int main(void)
         {
+			char add[]="hell,thanks";
             int add_val = 0;
             add_val = add(145,190);
             printf("\n\rthe add_val is %d\r\n",add_val);
